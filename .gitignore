@@ -1,4 +1,1 @@
-*.a
-*.o
-*.exe
-
+*.sh \n mine.txt
